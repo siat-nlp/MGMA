@@ -1,5 +1,5 @@
 ## MGMA
-This repository contains code and data for the KBS'2021 paper "Multi-goal multi-agent learning for task-oriented dialogue with bidirectional teacher–student learning".
+This repository contains code and data for the KBS'2021 paper "Multi-Goal Multi-agent Learning for Task-oriented Dialogue with Two-to-One Teacher-Student Learning".
 
 ### Train: 
 ./train_camrest.sh
